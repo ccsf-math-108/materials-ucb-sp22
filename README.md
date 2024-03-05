@@ -1,1 +1,1 @@
-# materials-ucb-sp22
+# training-materials-sp22
